@@ -43,21 +43,3 @@ C:/Users/ivano/Documents/CSharp projects/Bad-Apple-CSharp/obj/Debug/net6.0/refin
 C:/Users/ivano/Documents/CSharp projects/Bad-Apple-CSharp/obj/Debug/net6.0/Bad Apple.pdb
 C:/Users/ivano/Documents/CSharp projects/Bad-Apple-CSharp/obj/Debug/net6.0/Bad Apple.genruntimeconfig.cache
 C:/Users/ivano/Documents/CSharp projects/Bad-Apple-CSharp/obj/Debug/net6.0/ref/Bad Apple.dll
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\bin\Debug\net6.0\Bad Apple.exe
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\bin\Debug\net6.0\Bad Apple.deps.json
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\bin\Debug\net6.0\Bad Apple.runtimeconfig.json
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\bin\Debug\net6.0\Bad Apple.dll
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\bin\Debug\net6.0\Bad Apple.pdb
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\bin\Debug\net6.0\NetCoreAudio.dll
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.csproj.AssemblyReference.cache
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.AssemblyInfoInputs.cache
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.AssemblyInfo.cs
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.csproj.CoreCompileInputs.cache
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.sourcelink.json
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.csproj.Up2Date
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.dll
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\refint\Bad Apple.dll
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.pdb
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\Bad Apple.genruntimeconfig.cache
-C:\Users\ravap\Documents\GitHub\Bad-Apple-CSharp\obj\Debug\net6.0\ref\Bad Apple.dll
