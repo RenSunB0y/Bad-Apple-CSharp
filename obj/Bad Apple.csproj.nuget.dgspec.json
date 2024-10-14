@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/vilius/Documents/C# Projects/Bad-Apple-CSharp/Bad Apple.csproj": {}
+    "C:\\Users\\ravap\\Documents\\GitHub\\Bad-Apple-CSharp\\Bad Apple.csproj": {}
   },
   "projects": {
-    "/home/vilius/Documents/C# Projects/Bad-Apple-CSharp/Bad Apple.csproj": {
+    "C:\\Users\\ravap\\Documents\\GitHub\\Bad-Apple-CSharp\\Bad Apple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/vilius/Documents/C# Projects/Bad-Apple-CSharp/Bad Apple.csproj",
+        "projectUniqueName": "C:\\Users\\ravap\\Documents\\GitHub\\Bad-Apple-CSharp\\Bad Apple.csproj",
         "projectName": "Bad Apple",
-        "projectPath": "/home/vilius/Documents/C# Projects/Bad-Apple-CSharp/Bad Apple.csproj",
-        "packagesPath": "/home/vilius/.nuget/packages/",
-        "outputPath": "/home/vilius/Documents/C# Projects/Bad-Apple-CSharp/obj/",
+        "projectPath": "C:\\Users\\ravap\\Documents\\GitHub\\Bad-Apple-CSharp\\Bad Apple.csproj",
+        "packagesPath": "C:\\Users\\ravap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ravap\\Documents\\GitHub\\Bad-Apple-CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/vilius/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ravap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -49,16 +56,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.35, 6.0.35]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/dotnet6-6.0.110/sdk/6.0.110/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
